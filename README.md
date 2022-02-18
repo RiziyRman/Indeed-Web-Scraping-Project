@@ -1,2 +1,2 @@
 # Indeed-Web-Scraping-Project
-## This is a side project i'm currently experimenting with to advance my skill-set
+## This one of the side projects i'm currently experimenting with to advance my skill-set
