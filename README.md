@@ -1,2 +1,2 @@
 # Indeed ETL Project - Vaccination Requirement Amongst Job Postings
-##### The script pulls and parses data from Indeed, iterates through job postings, and scans text within job postings to determine if vaccination is required. This is one of the side projects I threw together as a refresher. Will next pull company name, experience level (if possible) and turn this data into a visualization. I wonder what insights I will find...
+##### The script pulls and parses data from Indeed, iterates through job postings, and scans text within job postings to determine if vaccination is required. Next step is to implement rotational proxies to enable larger pulls.
